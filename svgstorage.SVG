@@ -1,25 +1,45 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<svg    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1"
- viewBox="0 0 100.0 100.0"
- id="svg2" 
- width="28.222222912098783mm"
- height="28.222222912098783mm">
- <defs  
-  id="defs4" /> 
- <sodipodi:namedview 
-  id="base" 
-  pagecolor="#ffffff" 
-  bordercolor="#666666" 
-  borderopacity="1.0" 
- inkscape:pageopacity="0.0" 
- inkscape:pageshadow="2" 
-  inkscape:document-units="mm" 
-  inkscape:current-layer="layer1" 
- showgrid="false" 
-  />
-<g
-inkscape:label="Slice 1"
-inkscape:groupmode="layer" 
-id="layer1" 
-></g>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 100.0 100.0"
+   id="svg2"
+   width="28.222222912098783mm"
+   height="28.222222912098783mm"
+   sodipodi:docname="svgstorage.SVG"
+   xml:space="preserve"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs4" /><sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="6.1874998"
+     inkscape:cx="53.333335"
+     inkscape:cy="47.515153"
+     inkscape:window-width="1530"
+     inkscape:window-height="836"
+     inkscape:window-x="70"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" /><g
+     inkscape:label="Slice 1"
+     inkscape:groupmode="layer"
+     id="layer1"><rect
+       style="fill:#000000;stroke-width:0.9375"
+       id="rect1"
+       width="20.757576"
+       height="20.151516"
+       x="14.090909"
+       y="12.424242"
+       rx="89.999992" /></g></svg>
